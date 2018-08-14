@@ -2,51 +2,56 @@ page-home {
 .card1{
     height:23%;
     border-radius: 3%;
-    background:url('../../assets/iphone2.jpg');
+    background: radial-gradient(rgba(0, 0, 0, 0.466), rgba(0, 0, 0, 0.418)), url('../../assets/iphone2.jpg');
     background-repeat: no-repeat;
     background-size:cover;
     padding:10%;
     color:white;
     box-shadow: 2px 6px 8px rgba(0, 0, 0, 0.637);
+
+
+  
+                   
 }
 .card2{
     height:23%;
     border-radius: 3%;
-    background:url('../../assets/j.jpg');
+    background: radial-gradient(rgba(0, 0, 0, 0.452), rgba(0, 0, 0, 0.452)),url('../../assets/j.jpg');
     background-repeat: no-repeat;
     background-size:cover;
     padding:10%;
     color:white;
     box-shadow: 2px 6px 8px rgba(0, 0, 0, 0.637);
     margin-top:20px;
- 
+  
 }
 .card3{
     height:23%;
     border-radius: 3%;
-    background:url('../../assets/car09.jpg');
+    background: radial-gradient(rgba(0, 0, 0, 0.527), rgba(0, 0, 0, 0.527)),url('../../assets/car09.jpg');
     background-repeat: no-repeat;
     background-size:cover;
     padding:10%;
    color:white;
    box-shadow: 2px 6px 8px rgba(0, 0, 0, 0.637);
    margin-top:20px;
+ 
 }
 .card4{
     height:23%;
     border-radius: 3%;
-    background:url('../../assets/ds.jpg');
+    background: radial-gradient(rgba(0, 0, 0, 0.459), rgba(0, 0, 0, 0.459)),url('../../assets/ds.jpg');
     background-repeat: no-repeat;
     background-size:cover;
     padding:10%;
     color:white;
     box-shadow: 2px 6px 8px rgba(0, 0, 0, 0.637);
     margin-top:20px;
+    
 }
 .p{
 font-size:2em;
 font-family: 'Anton', sans-serif;
 }
-
 
 }
